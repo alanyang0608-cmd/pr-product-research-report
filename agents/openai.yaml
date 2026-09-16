@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品与传播调研"
+  short_description: "按需选择产品能力、传播策略或综合研究，提供可追溯分析与交互报告"
+  default_prompt: "请使用 $pr-product-research-report，按我的目标开展产品能力、传播策略或综合调研；方向不明确时提供这三种选项，报告先讲清产品，再结合证据逐层分析。"
